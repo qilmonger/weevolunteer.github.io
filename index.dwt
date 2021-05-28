@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>WeeVolunteer</title>
+    <!-- TemplateEndEditable -->
+    <link rel="icon" type="image/png" href="../images/logo_16px.png">
+    <link href="../css/bootstrap-4.3.1.css" rel="stylesheet">
+    <link href="../css/custom.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600" rel="stylesheet"> 
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+	<!-- TemplateBeginEditable name="preload" -->
+    <!-- TemplateEndEditable -->
+  </head>
+  <body>
+	<nav class="navbar navbar-expand-md navbar-dark fixed-top">
+	  <div class="container">
+	  <a class="navbar-brand" href="../index.html"><img src="../images/logo_200px.png" width="33px" alt="WeeVolunteer" style="margin-right: -3px"><span class="pl-2" style="font-size: 0.85rem; font-weight: 600"><span style="color: #f2cf56">Wee</span>Volunteer</span></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+	<!-- TemplateBeginEditable name="navbar" -->
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="../about-us.html" id="aboutUs" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
+            <div class="dropdown-menu" aria-labelledby="aboutUs">
+              <a class="dropdown-item" href="../about-us.html">Who We Are</a>
+              <a class="dropdown-item" href="../about-us.html#partners">Our Partners</a>
+              <a class="dropdown-item" href="../about-us.html#team">Our Team</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="../programmes/weereach.html" id="programmes" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Programmes</a>
+            <div class="dropdown-menu" aria-labelledby="programmes">
+              <a class="dropdown-item" href="../programmes/weereach.html">WeeReach</a>
+              <a class="dropdown-item" href="../programmes/weetrip.html">WeeTrip</a>
+            </div>
+		  </li>
+	      <li class="nav-item">
+            <a class="nav-link" href="../stories.html">Stories</a>
+          </li>
+        </ul>
+      </div>
+	  <!-- TemplateEndEditable -->
+	  </div>
+    </nav>
+	<!-- TemplateBeginEditable name="body" -->
+	<!-- TemplateEndEditable -->
+	<br><br><br>
+	<div style="background-color: #EEEEEE">
+	  <br>
+		<div class="container">
+		  <div class="row">
+			<div class="col-md-9 col-12">
+			  <div class="row">
+				<div class="col-12 col-md-7 col-xl-6 pb-3">
+				  <img src="../images/wkwsci.svg" alt="Wee Kim Wee School of Communication and Information" width="100%" id="wkwsci-logo">
+				  <address><strong>Wee Kim Wee School<br>of Communication and Information</strong>
+					<br>31 Nanyang Link
+					<br>Singapore 637718
+					<br>
+				  </address>
+				  <hr>
+				  <h4>Connect with Us</h4>
+					<a href="mailto:wkwsci.weevolunteer@gmail.com" class="far fa-envelope"></a>&nbsp;
+					<a href="https://www.facebook.com/wkwsci.weevo/" class="fab fa-facebook-f"></a>&nbsp;
+					<a href="https://instagram.com/wkwsci.weevo/" class="fab fa-instagram"></a>&nbsp;
+					<a href="https://www.youtube.com/channel/UCSx2dIkbOMq4JDzGUrDN9bA" class="fab fa-youtube"></a>
+				</div>
+				<div class="col-md-5 col-xl-6 d-none d-md-block" id="footernav">
+				  <h4>About Us</h4>
+					<a href="../about-us.html">Who We Are</a>
+					<br><a href="../about-us.html#partners">Our Partners</a>
+					<br><a href="../about-us.html#team">Our Team</a>
+				  <hr>
+				  <h4>Programmes</h4>
+					<a href="../programmes/weereach.html">WeeReach</a>
+					<br><a href="../programmes/weetrip.html">WeeTrip</a>
+				  <hr>
+				  <a id="footer" href="../stories.html">Stories</a>
+				</div>
+			  </div>
+			</div>
+			<div class="col-md-3 d-none d-md-block mt-md-0 mt-2">
+			  <div align="center">
+				<img src="../images/logo_200px.png" width="75%" alt="WeeVolunteer">
+			  </div>
+			</div>
+		  </div>
+		</div><br>
+		<div class="d-none d-md-block">
+		  <br><br><br><br>
+		</div>
+	  </div>
+    <footer class="text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+              <br>
+			  <p style="font-size: 0.7rem;">Copyright © WKWSCI Volunteer Programme 2018&#8212;2020. <span class="d-block d-sm-none"></span>All rights reserved.</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../js/jquery-3.2.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/popper.min.js"></script>
+    <script src="../js/bootstrap-4.3.1.js"></script>
+</body>
+</html>
